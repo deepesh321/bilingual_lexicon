@@ -20,3 +20,5 @@ Example: Line 5 in the Hindi/Bengali file should be an exact translation of line
 English file.
 Each English line should terminate with '.' and the Hindi/Bengali line should terminate
 with '|'.
+
+You can use the above dataset.
